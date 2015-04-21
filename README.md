@@ -6,7 +6,7 @@ Configs for various Dirty Bomb players.
 INSTALLATION
 ------------
 
-1. [Download the configs and extract the contents](/spacevikings/configs/archive/master.zip)
+1. [Download the configs and extract the contents](https://github.com/spacevikings/configs/archive/master.zip)
 2. Open Windows Explorer and navigate to `C:\Users\[Username]\Documents\My Games\UnrealEngine3\ShooterGame\Config`
 3. Overwrite existing files with a config of your choice (after backing up your
    originals).
